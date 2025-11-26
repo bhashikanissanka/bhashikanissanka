@@ -17,6 +17,6 @@ From frontend polish to backend logic — and the testing in between — I’m c
 - 🌱 Learning cloud deployment and test automation frameworks
 
 🌐 Let’s Connect
-- 📫 Email: bhashikanissanka.com
+- 📫 Email: bhashikanissanka@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shaini-nissanka/
 - 🌎 Portfolio: https://shainibhashika.wordpress.com
